@@ -1,0 +1,37 @@
+.afbeelding-fruit {
+    width:75px;
+    height:auto
+}
+
+.increase-decrease-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+h2 {
+    font-family: "Heebo Light", cursive;
+    color: hsl(180, 53%, 31%);
+}
+
+h4 {
+    font-family: "Roboto Black", cursive;
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(41, 73%, 43%);
+    margin: 5px;
+}
+
+.decrease-button {
+    background-color: hsl(180, 53%, 40%);
+    color: #FFFFFF;
+}
+
+.increase-button {
+    background-color: hsl(180, 53%, 40%);
+    color: #FFFFFF;
+    font-weight: bolder;
+
+}
